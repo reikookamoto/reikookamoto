@@ -1,4 +1,4 @@
-# Reiko Okamoto
+# About me
 
 My name is Reiko and I am a creative and curious implementer passionate about reproducible research and data analysis.
 
